@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button_List_Style" parent="@style/Widget.AppCompat.Button.Borderless">
+<!--        去除button投影效果-->
+    </style>
+</resources>
